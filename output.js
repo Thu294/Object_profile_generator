@@ -78,7 +78,7 @@ const addManager = () => {
 
     teamArray.push(manager);
     console.log(manager);
-})
+});
 };
 
 const addEmployee = () => {
@@ -200,7 +200,7 @@ return inquirer.prompt ([
     } else {
         return teamArray;
     }
-})
+});
 
 };
 //function to generate HTML page file using file system 
@@ -228,6 +228,9 @@ addManager()
   .catch(err => {
  console.log(err);
   });
+
+
+
 
 
 
