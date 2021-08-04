@@ -89,10 +89,10 @@ const addEmployee = () => {
     `);
 return inquirer.prompt ([
 {
-    type: 'list',
+    type: 'checkbox',
     name: 'role',
     message: "Please choose your employee's role",
-    choise: ['Engineer', 'Intern']
+    choices: ['Engineer', 'Intern']
 },
  {
      type: 'input',
