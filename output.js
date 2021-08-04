@@ -176,6 +176,8 @@ return inquirer.prompt ([
 
 ])
 
+
+
 .then(employeeData => {
     // data for employee types 
 
