@@ -27,4 +27,4 @@ Contributors should read the installation section.
 Run npm test to run
 
 # Question
-If you have any questions about this project please contact me at mthud2904@gmail.com. Or you can view my project at https://github.com/Thu294 .
+If you have any questions about this project please contact me at mthud2904@gmail.com. Or you can view my project at 
